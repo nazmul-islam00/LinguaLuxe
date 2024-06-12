@@ -9,7 +9,7 @@ LinguaLuxe is my CS50P final project.  This is a application built using tkinter
 #### Getting Started
 ---
 
-This project uses external modules. At first install the modules using the following commands:
+This project uses external modules. At first install the modules using the following command:
 ```
 pip install pytest pygame gtts pillow langid PyMultiDictionary deep_translator
 ```

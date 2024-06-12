@@ -1,0 +1,7 @@
+pytest
+gtts
+pygame 
+pillow
+langid
+PyMultiDictionary
+deep_translator

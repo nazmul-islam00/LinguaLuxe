@@ -1,13 +1,13 @@
 # LinguaLuxe
----
+
 
 
 LinguaLuxe is my CS50P final project.  This is a application built using tkinter. This works as a dictionary and a translator(with pronunciations).
 
 
 
-#### Getting Started
----
+## Getting Started
+
 
 This project uses external modules. At first install the modules using the following command:
 ```
@@ -20,8 +20,8 @@ python project.py
 ```
 
 
-#### About
----
+## About
+
 
 In this project, I used two separate classes ```DictionaryProcessor``` and ```Translator``` for the calls to the external modules. For the text-to-speech part, I used the Google Text to Speech module ```gtts```.
 

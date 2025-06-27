@@ -2,7 +2,7 @@
 
 
 
-LinguaLuxe is my CS50P final project.  This is a application built using tkinter. This works as a dictionary and a translator(with pronunciations).
+LinguaLuxe is my CS50P final project, an application built using tkinter. This works as a dictionary and a translator(with support for pronunciations).
 
 
 
